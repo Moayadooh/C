@@ -1,0 +1,8 @@
+albert 80 pass
+jhon 90 pass
+ali 38 fail
+evan 16 fail
+hassan 88 pass
+george 78 pass
+fatma 67 pass
+ameera 98 pass

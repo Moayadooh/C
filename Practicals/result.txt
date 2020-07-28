@@ -1,0 +1,5 @@
+smallest age
+2
+3
+20
+10
